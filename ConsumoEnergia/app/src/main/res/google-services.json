@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "357932012673",
+    "firebase_url": "https://meutcc-5514d.firebaseio.com",
+    "project_id": "meutcc-5514d",
+    "storage_bucket": "meutcc-5514d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357932012673:android:3c427eaefa87b1cf",
+        "android_client_info": {
+          "package_name": "tcc.br.consumoenergia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357932012673-3270h04t451a5qmt5od3agvg6dvi1bk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tcc.br.consumoenergia",
+            "certificate_hash": "61ab36b0c0f0c6541ef2726de62b67d1dc8edf36"
+          }
+        },
+        {
+          "client_id": "357932012673-mg18l48od4m3b5q43n7mlctvdl2inf3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Nv9C2_CA3FtckEovRHTH8AuApvo1cnk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357932012673-mg18l48od4m3b5q43n7mlctvdl2inf3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
